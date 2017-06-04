@@ -472,6 +472,10 @@ footer .logo {
 	margin-right: 10px;
 	margin-top: 8px;
 }
+.left-nav .settings .menu.menu-down a {
+	width: 100%;
+	text-align: left;
+}
 
 /* Content */
 .content {
