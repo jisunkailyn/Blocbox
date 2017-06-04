@@ -279,9 +279,12 @@ header .hero img {
 .checkpoint27 h2 {
 	color: #FFFFFF;
 	margin-top: 0;
+	font-size: 45px;
 }
 .checkpoint27 p {
 	color: #FFFFFF;
+	font-size: 22px;
+	line-height: 26px;
 }
 
  /* Footer */
@@ -519,6 +522,7 @@ footer .logo {
 	position: absolute;
 	height: 100%;
 	width: auto;
+	margin: auto;
 	top: 0;
 	left: 0;
 	right: 0;
